@@ -1,16 +1,18 @@
-## Hi there 👋
+### About Me
+Hi! I'm Carly, a technical writer and weather communicator with a background in English and a passion for clear, accessible documentation. I specialize in translating meteorological concepts into user-friendly and educational content. 
+  
+- ⚡ I’m currently learning Python, CSS
 
-<!--
-**Carly-Anna/Carly-Anna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Main Skills
+[![My Skills](https://skillicons.dev/icons?i=ae,figma,py,wordpress,pr,notion,codepen)](https://skillicons.dev)
+### Studying 
+[![My Skills](https://skillicons.dev/icons?i=css,py,git,ai,)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+### Publications 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect With Me! 
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/carlyannawx/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
