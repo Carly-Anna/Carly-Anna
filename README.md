@@ -16,3 +16,6 @@ Hi! I'm Carly, a technical writer and weather communicator with a background in 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+
+![NewClouds Image](NewClouds.png)
