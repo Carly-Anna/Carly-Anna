@@ -1,12 +1,15 @@
-### Hi, I'm Carly
+### Hi, I'm Carly!
 
-A technical writer and weather communicator passionate about turning storm science and tech into clear, human-centered content!
+A technical writer and weather communicator passionate about turning storm science and tech into clear, educaitonal content. I focus on making complex concepts into accessible, actionable, and engaging for all types of users. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+## Main Skills
+[![My Skills](https://skillicons.dev/icons?i=ae,figma,notion,pr)](https://skillicons.dev) 
+
+## Currently Studying
+[![My Skills](https://skillicons.dev/icons?i=codepen,git,github,py,)](https://skillicons.dev)
+## Publicaitons  
+
+
 ## Let's Connect 
 
 ![Clouds Image](Clouds.jpg)
