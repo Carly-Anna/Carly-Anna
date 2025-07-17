@@ -7,8 +7,6 @@ A technical writer and weather communicator passionate about turning storm scien
 
 ## Currently Studying
 [![My Skills](https://skillicons.dev/icons?i=codepen,git,github,py,)](https://skillicons.dev)
-## Publicaitons  
-
 
 ## Let's Connect 
 [My Linkedin](https://www.linkedin.com/in/carlyannawx/) 
